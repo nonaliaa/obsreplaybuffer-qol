@@ -10,7 +10,7 @@ basic python script for obs to add qol things for replay buffer use.
 6. his the reload button in the bottom right or restart obs
 7. should work :thumbs_up:
 
-
+you can change the sound by putting any mp3 file in the same path and changing the name to rsound
 
 ### things currently in
 
