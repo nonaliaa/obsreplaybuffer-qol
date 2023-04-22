@@ -22,3 +22,6 @@ basic python script for obs to add qol things for replay buffer use.
 - visual popup when you save a replay (like nvidia and amd's instant replay)
 - open obs in the tray on pc startup (not sure if this is possible fully possible)
 - ui setting to change the audio without having to manually change the file 
+
+
+I made this for my personal use but it should still work for others, at some point later I might make a legitimate plugin for general use 
